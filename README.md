@@ -28,4 +28,5 @@ The smart contract is written and deployed on the Solana network. It includes th
 - **https://drive.google.com/file/d/1dkg7tEZcb_WmKhe-EUwZ6Ys8rtqegBfo/view?usp=sharing**
 
 ## Steps Of Installation
+![Alt text](res/1.jpg)
 
