@@ -24,17 +24,39 @@ The smart contract is written and deployed on the Solana network. It includes th
 - **addDegree**: Allows authorized institutions to add a new degree or credential to the blockchain.
 - **getDegreeDetails**: Retrieves details of a specific degree, including the issuing institution, date of issuance, and other metadata.
 
-## Link Of Video
+## Link Of Video(Installation Process/ Demo)
 - **https://drive.google.com/file/d/1dkg7tEZcb_WmKhe-EUwZ6Ys8rtqegBfo/view?usp=sharing**
 
 ## Steps Of Installation
 Step1: Use google chrome only in order to download phantom wallet.
+
 ![Alt text](res/1.jpg)
+
+Step 2: Add phantom extention in google chrome
+
 ![Alt text](res/2.jpg)
+
+Step 3: Create new wallet
+
 ![Alt text](res/3.jpg)
+
+Step 4: Create password for the wallet.
+
 ![Alt text](res/4.jpg)
+
+Step 5: Initiate Smart Contract to login
+
 ![Alt text](res/5.jpg)
+
+Step 6: Now you are logedin, So, upload your files.
+
 ![Alt text](res/6.jpg)
+
+Step 7: Choose any file you want to sae in your wallet address.
+
 ![Alt text](res/7.jpg)
+
+Step 8: The files will always be at this place.
+
 ![Alt text](res/8.jpg)
 
