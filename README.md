@@ -24,5 +24,8 @@ The smart contract is written and deployed on the Solana network. It includes th
 - **addDegree**: Allows authorized institutions to add a new degree or credential to the blockchain.
 - **getDegreeDetails**: Retrieves details of a specific degree, including the issuing institution, date of issuance, and other metadata.
 
-## Link of video
+## Link Of Video
 - **https://drive.google.com/file/d/1dkg7tEZcb_WmKhe-EUwZ6Ys8rtqegBfo/view?usp=sharing**
+
+## Steps Of Installation
+
