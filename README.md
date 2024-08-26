@@ -28,5 +28,6 @@ The smart contract is written and deployed on the Solana network. It includes th
 - **https://drive.google.com/file/d/1dkg7tEZcb_WmKhe-EUwZ6Ys8rtqegBfo/view?usp=sharing**
 
 ## Steps Of Installation
+Step1: Use google chrome only in order to download phantom wallet.
 ![Alt text](res/1.jpg)
 
